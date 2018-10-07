@@ -97,7 +97,7 @@ alias ll='ls -la'
 alias la='ls -lA'
 alias l='ls -CF'
 alias wzion='sudo etherwake 00:15:17:64:A3:30 -ienxb827eb82cc45'
-
+alias adamon='sudo etherwake 44:8A:5B:D5:F1:85 -ienxb827eb82cc45'
 # Alias definitions.
 # You may want to put all your additions into a separate file like
 # ~/.bash_aliases, instead of adding them here directly.

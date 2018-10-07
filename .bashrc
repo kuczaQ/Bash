@@ -96,6 +96,7 @@ fi
 alias ll='ls -la'
 alias la='ls -lA'
 alias l='ls -CF'
+alias wzion='sudo etherwake 00:15:17:64:A3:30 -ienxb827eb82cc45'
 
 # Alias definitions.
 # You may want to put all your additions into a separate file like
